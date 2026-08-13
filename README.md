@@ -314,7 +314,3 @@ Varsha S
 
 GitHub: https://github.com/varsha015s
 
- Disclaimer
-
-This project is intended as an AI-assisted resume screening prototype for educational and demonstration purposes. Final recruitment decisions should always involve appropriate human review.
-
