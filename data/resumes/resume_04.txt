@@ -1,0 +1,17 @@
+Rahul Sharma
+B.Tech Computer Science
+
+Skills:
+HTML, CSS, JavaScript, React, Node.js, Express,
+MongoDB, REST APIs
+
+Experience:
+1 year internship as a Web Developer.
+
+Projects:
+- Developed responsive e-commerce websites.
+- Built React web applications.
+- Created REST APIs using Node.js.
+
+Education:
+B.Tech in Computer Science Engineering

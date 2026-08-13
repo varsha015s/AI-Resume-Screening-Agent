@@ -1,0 +1,17 @@
+Arjun Kumar
+B.E. Computer Science
+
+Skills:
+Python, C, Java, SQL, Git, HTML, CSS,
+Basic Machine Learning
+
+Experience:
+Fresher.
+
+Projects:
+- Developed a student management system.
+- Created a basic Python data analysis project.
+- Built a simple machine learning classification project.
+
+Education:
+B.E. in Computer Science Engineering

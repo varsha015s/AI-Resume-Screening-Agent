@@ -1,0 +1,17 @@
+Karan Joshi
+B.Tech Computer Science
+
+Skills:
+Java, C++, JavaScript, React, Spring Boot,
+MySQL, REST APIs
+
+Experience:
+1 year software development internship.
+
+Projects:
+- Developed backend services using Java and Spring Boot.
+- Built web applications using React.
+- Designed REST APIs and MySQL databases.
+
+Education:
+B.Tech in Computer Science Engineering

@@ -1,0 +1,17 @@
+Priya Sharma
+B.Tech Information Technology
+
+Skills:
+Python, Pandas, NumPy, Data Analysis, SQL, Machine Learning,
+Excel, Scikit-learn, Git
+
+Experience:
+1 year internship experience in data analysis.
+
+Projects:
+- Analysed customer datasets using Python and Pandas.
+- Built a machine learning model for customer churn prediction.
+- Created SQL queries for data reporting.
+
+Education:
+B.Tech in Information Technology

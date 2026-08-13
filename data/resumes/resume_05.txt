@@ -1,0 +1,17 @@
+Sneha Patil
+B.Tech Computer Science
+
+Skills:
+Python, Machine Learning, Pandas, NumPy,
+Scikit-learn, SQL, Git, Data Preprocessing
+
+Experience:
+Fresher.
+
+Projects:
+- Developed a machine learning model for house price prediction.
+- Performed data cleaning and preprocessing using Pandas.
+- Compared classification algorithms using Scikit-learn.
+
+Education:
+B.Tech in Computer Science Engineering

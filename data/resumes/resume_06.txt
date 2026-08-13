@@ -1,0 +1,17 @@
+Ananya Rao
+B.Tech Information Science
+
+Skills:
+SQL, Python, Data Analysis, Excel, Power BI,
+Pandas, Statistics
+
+Experience:
+1 year experience as a Data Analyst intern.
+
+Projects:
+- Created sales dashboards using Power BI.
+- Analysed business data using SQL and Python.
+- Generated reports from large datasets.
+
+Education:
+B.Tech in Information Science

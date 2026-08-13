@@ -1,0 +1,20 @@
+Vikram Singh
+B.Tech Computer Science
+
+Skills:
+Python, Machine Learning, NLP, SQL, Git, GitHub,
+Scikit-learn, TensorFlow, APIs, Data Analysis
+
+Experience:
+2 years experience through internships and academic projects
+in Artificial Intelligence and Machine Learning.
+
+Projects:
+- Developed an NLP sentiment analysis model.
+- Built machine learning classification models.
+- Created data preprocessing pipelines in Python.
+- Used GitHub for version control.
+- Integrated machine learning APIs into applications.
+
+Education:
+B.Tech in Computer Science Engineering

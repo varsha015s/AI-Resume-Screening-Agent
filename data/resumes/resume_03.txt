@@ -1,0 +1,18 @@
+Rohan Mehta
+B.Tech Artificial Intelligence
+
+Skills:
+Python, LLMs, Generative AI, NLP, Machine Learning,
+RAG, Prompt Engineering, APIs, Git, SQL
+
+Experience:
+Fresher with strong academic experience in Generative AI.
+
+Projects:
+- Built a Retrieval Augmented Generation application.
+- Developed an LLM-based document question answering system.
+- Created NLP applications using Python.
+- Integrated AI APIs into applications.
+
+Education:
+B.Tech in Artificial Intelligence

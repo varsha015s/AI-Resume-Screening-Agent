@@ -1,0 +1,30 @@
+Junior AI Research Associate
+
+About the Role:
+We are looking for a Junior AI Research Associate to support research and development activities involving Artificial Intelligence and Machine Learning.
+
+Required Skills:
+- Python
+- Machine Learning
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Generative AI
+- Data Analysis
+- SQL
+- Git and GitHub
+- Basic knowledge of APIs
+
+Educational Qualification:
+- Bachelor's degree in Computer Science, Information Technology, Artificial Intelligence, Data Science, or a related field.
+
+Experience:
+- Freshers or candidates with 0-2 years of experience are welcome.
+
+Responsibilities:
+- Assist in developing and testing AI/ML solutions.
+- Research AI and machine learning techniques.
+- Work with datasets and perform data preprocessing.
+- Build and evaluate machine learning models.
+- Work with LLMs and Generative AI tools.
+- Document experiments and findings.
+- Collaborate with technical team members.

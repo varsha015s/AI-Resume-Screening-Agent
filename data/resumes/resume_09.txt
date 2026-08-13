@@ -1,0 +1,18 @@
+Meera Nair
+M.Tech Artificial Intelligence
+
+Skills:
+Python, NLP, Natural Language Processing, Machine Learning,
+Deep Learning, LLMs, Transformers, SQL, Git, Data Analysis
+
+Experience:
+2 years research experience in Natural Language Processing.
+
+Projects:
+- Developed NLP text classification models.
+- Experimented with transformer-based language models.
+- Built a question answering system using NLP.
+- Evaluated machine learning models on text datasets.
+
+Education:
+M.Tech in Artificial Intelligence

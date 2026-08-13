@@ -1,0 +1,19 @@
+Alex Kumar
+B.Tech Computer Science
+
+Skills:
+Python, Machine Learning, NLP, Natural Language Processing,
+Large Language Models, Generative AI, SQL, Git, GitHub,
+Pandas, NumPy, Scikit-learn, APIs
+
+Experience:
+Fresher with academic experience in Artificial Intelligence
+and Machine Learning.
+
+Projects:
+- Built an NLP text classification system using Python and Scikit-learn.
+- Developed a Generative AI question-answering application using an LLM API.
+- Performed data preprocessing and model evaluation on machine learning datasets.
+
+Education:
+B.Tech in Computer Science Engineering
