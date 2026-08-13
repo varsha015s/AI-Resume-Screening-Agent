@@ -1,19 +1,19 @@
-# 🤖 AI Resume Screening Agent
+AI Resume Screening Agent
 
 An AI-powered resume screening system that automatically evaluates candidates against a job description, calculates a match score, ranks candidates, and generates detailed AI-based reasoning using Groq LLM.
 
-## 🚀 Features
+ Features
 
-- 📄 Resume parsing from text files
-- 🎯 Job description-based candidate screening
-- 📊 Deterministic skill matching and scoring
-- 🤖 Groq LLM-powered candidate reasoning
-- 🏆 Automatic candidate ranking
-- 📋 Matched and missing skill identification
-- 🌐 Streamlit web interface
-- 📁 CSV and JSON result generation
+-  Resume parsing from text files
+-  Job description-based candidate screening
+-  Deterministic skill matching and scoring
+-  Groq LLM-powered candidate reasoning
+-  Automatic candidate ranking
+-  Matched and missing skill identification
+-  Streamlit web interface
+-  CSV and JSON result generation
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - Python
 - Streamlit
@@ -23,9 +23,9 @@ An AI-powered resume screening system that automatically evaluates candidates ag
 - Python pathlib
 - Git & GitHub
 
-## 📂 Project Structure
+Project Structure
 
-```text
+
 AI-Resume-Screening-Agent/
 │
 ├── app.py
