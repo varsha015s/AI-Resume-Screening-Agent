@@ -1,4 +1,4 @@
-# 🤖 AI Resume Screening Agent
+AI Resume Screening Agent
 
 An AI-powered resume screening system that automatically evaluates candidates against a job description, calculates a match score, ranks candidates, and generates detailed AI-based reasoning using Groq LLM.
 
